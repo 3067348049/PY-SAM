@@ -1,0 +1,12 @@
+dataset_seg/
+dataset_yolo/
+
+# 你可以顺便添加你不想上传的文件类型
+*.jpg
+*.png
+*.tiff
+*.bmp
+*.pt
+*.pth
+__pycache__/
+*.pyc
